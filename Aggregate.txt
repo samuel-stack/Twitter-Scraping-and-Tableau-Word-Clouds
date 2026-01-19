@@ -1,0 +1,1 @@
+move repository into a "Guides-&-knowledge" put maybe in a depricated directory or mark as depricated cause i dont have a twitter account anymore so i am uninterested in trying to update this to work with current twitter API versions or Tableau.
